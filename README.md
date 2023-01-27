@@ -1,5 +1,13 @@
-# atmega128_example
-마이크로프로세서 공부자료
+# ATMEGA128
 
-* Chapter1
-- LED 시프팅 예제 
+## 개발환경
+
+### Borad
+- Atmega128
+<img width="341" alt="image" src="https://user-images.githubusercontent.com/50127167/215126228-2ac68604-b241-4eda-b037-fd3c7aaa3bfa.png">
+
+### IDE
+- Code Vison
+
+### Language
+- C
